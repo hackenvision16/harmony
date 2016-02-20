@@ -4,8 +4,19 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Blueprint: Split Layout" />
+        <meta name="keywords" content="website template, layout, css3, transition, effect, split, dual, two sides, portfolio" />
+        <meta name="author" content="Codrops" />
+        <link rel="shortcut icon" href="../favicon.ico">
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/component.css" />
+        <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
+        <link rel="stylesheet" type="text/css" href="css/starstyle.css" />
+        <link rel="stylesheet" type="text/css" href="css/boostrap.min.css" />
 
-    <title>Laravel</title>
+        <script src="js/modernizr.custom.js"></script>
+
+    <title>Harmony</title>
 
     <!-- Fonts -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" rel='stylesheet' type='text/css'>
@@ -40,7 +51,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Laravel
+                    Harmony
                 </a>
             </div>
 
